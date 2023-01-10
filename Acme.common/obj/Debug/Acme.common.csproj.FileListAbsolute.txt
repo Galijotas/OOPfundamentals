@@ -1,0 +1,6 @@
+C:\Users\lgalijot\Documents\Training\OOP fundamentals c#\ACM\Acme.common\bin\Debug\Acme.common.dll
+C:\Users\lgalijot\Documents\Training\OOP fundamentals c#\ACM\Acme.common\bin\Debug\Acme.common.pdb
+C:\Users\lgalijot\Documents\Training\OOP fundamentals c#\ACM\Acme.common\obj\Debug\Acme.common.csproj.AssemblyReference.cache
+C:\Users\lgalijot\Documents\Training\OOP fundamentals c#\ACM\Acme.common\obj\Debug\Acme.common.csproj.CoreCompileInputs.cache
+C:\Users\lgalijot\Documents\Training\OOP fundamentals c#\ACM\Acme.common\obj\Debug\Acme.common.dll
+C:\Users\lgalijot\Documents\Training\OOP fundamentals c#\ACM\Acme.common\obj\Debug\Acme.common.pdb

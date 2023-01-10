@@ -1,0 +1,9 @@
+C:\Users\lgalijot\Documents\Training\OOP fundamentals c#\ACM\ACM.BL\bin\Debug\ACM.BL.dll
+C:\Users\lgalijot\Documents\Training\OOP fundamentals c#\ACM\ACM.BL\bin\Debug\ACM.BL.pdb
+C:\Users\lgalijot\Documents\Training\OOP fundamentals c#\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.AssemblyReference.cache
+C:\Users\lgalijot\Documents\Training\OOP fundamentals c#\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
+C:\Users\lgalijot\Documents\Training\OOP fundamentals c#\ACM\ACM.BL\obj\Debug\ACM.BL.dll
+C:\Users\lgalijot\Documents\Training\OOP fundamentals c#\ACM\ACM.BL\obj\Debug\ACM.BL.pdb
+C:\Users\lgalijot\Documents\Training\OOP fundamentals c#\ACM\ACM.BL\bin\Debug\Acme.common.dll
+C:\Users\lgalijot\Documents\Training\OOP fundamentals c#\ACM\ACM.BL\bin\Debug\Acme.common.pdb
+C:\Users\lgalijot\Documents\Training\OOP fundamentals c#\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CopyComplete
